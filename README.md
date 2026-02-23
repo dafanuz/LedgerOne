@@ -15,8 +15,7 @@ a modern Progressive Web App that simplifies double-entry bookkeeping for everyd
 - PWA: Vite Plugin PWA + Workbox
 
 ## 👨‍💻 Author
-1. Dafanuz Novandi Rumanto
-2. Jason Stya
+Dafanuz Novandi Rumanto & Jason Stya
 
 - User Interface: https://drive.google.com/file/d/1E9L6jlkr0npp8bEWowyGAzRgZoyeSgyC/view?usp=sharing
 - Black Box Test: https://docs.google.com/document/d/1yHTDsTm_BSb-qLiiHVJAFoOBaEu6jagU/edit?usp=sharing&ouid=103888255836296253842&rtpof=true&sd=true
