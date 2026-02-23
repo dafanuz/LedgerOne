@@ -15,16 +15,16 @@ a modern Progressive Web App that simplifies double-entry bookkeeping for everyd
 - PWA: Vite Plugin PWA + Workbox
 
 ## ⚙ Installation & Setup
-#1. Clone the repository  
+**1. Clone the repository**  
    `git clone https://github.com/your-username/ledgerone.git  
    cd ledgerone`
-#3. Install dependencies 
+3. Install dependencies 
    `pnpm install`  
    (or use npm install if not using pnpm)
-#4. Environment Setup  
+4. Environment Setup  
    `VITE_SUPABASE_URL=your_supabase_url  
    VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key`
-#6. Run the App  
+6. Run the App  
    `pnpm dev`  
    Access the app at: `http://localhost:3000`
    
