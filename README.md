@@ -17,16 +17,16 @@ a modern Progressive Web App that simplifies double-entry bookkeeping for everyd
 ## ⚙ Installation & Setup
 **1. Clone the repository** <br>  
    `git clone https://github.com/your-username/ledgerone.git  <br>  
-   cd ledgerone`
+   cd ledgerone` <br>
 **2. Install dependencies** <br>  
    `pnpm install`  <br>  
-   (or use npm install if not using pnpm)
+   (or use npm install if not using pnpm) <br>
 **3. Environment Setup**  <br>  
    `VITE_SUPABASE_URL=your_supabase_url  <br>  
-   VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key`
+   VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key` <br>
 **4. Run the App**  <br>  
    `pnpm dev`  <br>  
-   Access the app at: `http://localhost:3000`
+   Access the app at: `http://localhost:3000` 
    
 ## 👨‍💻 Author
 Dafanuz Novandi Rumanto & Jason Stya
