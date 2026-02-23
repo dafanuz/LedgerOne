@@ -1,5 +1,6 @@
 ## 🧾 LedgerOne
 a modern Progressive Web App that simplifies double-entry bookkeeping for everyday users. It combines structured financial tracking, real-time performance insights, and budget management into an intuitive and installable web experience.
+<img width="1262" height="745" alt="image" src="https://github.com/user-attachments/assets/a733e9a1-e466-46b4-8b81-266ce5450c47" />
 
 ## ✨ Key Features
 - Financial dashboard with period performance & 1/3 rule analysis
@@ -9,19 +10,16 @@ a modern Progressive Web App that simplifies double-entry bookkeeping for everyd
 - Progressive Web App support (installable & responsive)
 
 ## 🛠 Built with
-Framework: React 19 + Vite
-Language: TypeScript
-Database: Supabase
-PWA: Vite Plugin PWA + Workbox
+- Framework: React 19 + Vite
+- Language: TypeScript
+- Database: Supabase
+- PWA: Vite Plugin PWA + Workbox
 
 ## 👨‍💻 Author
 1. Dafanuz Novandi Rumanto
 2. Jason Stya
 
-User Interface: https://drive.google.com/file/d/1E9L6jlkr0npp8bEWowyGAzRgZoyeSgyC/view?usp=sharing
-
-Black Box Test: https://docs.google.com/document/d/1yHTDsTm_BSb-qLiiHVJAFoOBaEu6jagU/edit?usp=sharing&ouid=103888255836296253842&rtpof=true&sd=true
-
-App Demo: https://drive.google.com/file/d/1sDrf0HT1imS-F6PuwHCrlqOT-rJHkMCe/view?usp=sharing
-
-ERD: https://drive.google.com/file/d/1a_tej6K3mz0qf43r86jzHqtw1qJiAtUe/view?usp=sharing
+- User Interface: https://drive.google.com/file/d/1E9L6jlkr0npp8bEWowyGAzRgZoyeSgyC/view?usp=sharing
+- Black Box Test: https://docs.google.com/document/d/1yHTDsTm_BSb-qLiiHVJAFoOBaEu6jagU/edit?usp=sharing&ouid=103888255836296253842&rtpof=true&sd=true
+- App Demo: https://drive.google.com/file/d/1sDrf0HT1imS-F6PuwHCrlqOT-rJHkMCe/view?usp=sharing
+- ERD: https://drive.google.com/file/d/1a_tej6K3mz0qf43r86jzHqtw1qJiAtUe/view?usp=sharing
