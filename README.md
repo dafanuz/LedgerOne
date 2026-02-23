@@ -1,8 +1,6 @@
 ## 🧾 LedgerOne
 a modern Progressive Web App that simplifies double-entry bookkeeping for everyday users. It combines structured financial tracking, real-time performance insights, and budget management into an intuitive and installable web experience.
-<img width="1422" height="842" alt="image" src="https://github.com/user-attachments/assets/5165e939-945f-43aa-b58a-28637682b004" />
-
-
+<img width="1824" height="1084" alt="BG" src="https://github.com/user-attachments/assets/1d4120fd-5985-470c-9b99-4e74751a0c80" />
 ## ✨ Key Features
 - Financial dashboard with period performance & 1/3 rule analysis
 - Simplified double-entry journal system
