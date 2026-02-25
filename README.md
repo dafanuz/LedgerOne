@@ -37,16 +37,7 @@ _or use npm if not using pnpm_
 npm install
 ```
 
-### 3. Environment Setup
-
-Create a `.env` file in the root directory and configure your Supabase credentials:
-
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key
-```
-
-### 4. Run the Application
+### 3. Run the Application
 
 ```bash
 pnpm dev
