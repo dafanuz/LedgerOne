@@ -488,8 +488,6 @@ export default defineConfig(({ mode }) => {
       },
     })],
     define: {
-      'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
       'process.env.VITE_SUPABASE_URL': JSON.stringify(env.VITE_SUPABASE_URL),
       'process.env.VITE_SUPABASE_PUBLISHABLE_KEY': JSON.stringify(env.VITE_SUPABASE_PUBLISHABLE_KEY),
     },
@@ -505,7 +503,6 @@ export default defineConfig(({ mode }) => {
           manualChunks: {
             'vendor': ['react', 'react-dom', 'react-router-dom'],
             'supabase': ['@supabase/supabase-js'],
-            'genai': ['@google/genai'],
             'date': ['date-fns'],
             'ui': ['lucide-react'],
           },
